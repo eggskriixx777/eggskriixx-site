@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://eggskriixx-site.vercel.app/sitemap.xml
